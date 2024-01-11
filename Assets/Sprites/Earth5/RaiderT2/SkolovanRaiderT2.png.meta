@@ -1,0 +1,512 @@
+fileFormatVersion: 2
+guid: 14e0b4175861e464295ba58423371454
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1573125960317587682
+    second: SkolovanRaiderT2_0
+  - first:
+      213: -7009641431712683201
+    second: SkolovanRaiderT2_1
+  - first:
+      213: 6871038350480882245
+    second: SkolovanRaiderT2_2
+  - first:
+      213: -4646015312425370275
+    second: SkolovanRaiderT2_3
+  - first:
+      213: -7395499534290731321
+    second: SkolovanRaiderT2_4
+  - first:
+      213: 4109945751013843036
+    second: SkolovanRaiderT2_5
+  - first:
+      213: -7779026058385015091
+    second: SkolovanRaiderT2_6
+  - first:
+      213: 8246269283099194178
+    second: SkolovanRaiderT2_7
+  - first:
+      213: -4624387015536785382
+    second: SkolovanRaiderT2_8
+  - first:
+      213: -5691831502700744939
+    second: SkolovanRaiderT2_9
+  - first:
+      213: -319171481911302006
+    second: SkolovanRaiderT2_10
+  - first:
+      213: -681905550332981177
+    second: SkolovanRaiderT2_11
+  - first:
+      213: -6695472566683622760
+    second: SkolovanRaiderT2_12
+  - first:
+      213: 2729543509623460333
+    second: SkolovanRaiderT2_13
+  - first:
+      213: 3083517077688727814
+    second: SkolovanRaiderT2_14
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SkolovanRaiderT2_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 112
+        width: 32
+        height: 37
+      alignment: 9
+      pivot: {x: 0.375, y: 0.4054054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0dca3e9bdd4d510800000000000000
+      internalID: 1573125960317587682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkolovanRaiderT2_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 111
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.375, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ba7eba140c8be90800000000000000
+      internalID: -7009641431712683201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkolovanRaiderT2_2
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 111
+        width: 32
+        height: 34
+      alignment: 9
+      pivot: {x: 0.375, y: 0.44117647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54abf76b9f4da5f50800000000000000
+      internalID: 6871038350480882245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkolovanRaiderT2_3
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 111
+        width: 34
+        height: 34
+      alignment: 9
+      pivot: {x: 0.4117647, y: 0.44117647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d3cd160b9068fb0800000000000000
+      internalID: -4646015312425370275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkolovanRaiderT2_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 65
+        width: 32
+        height: 37
+      alignment: 9
+      pivot: {x: 0.375, y: 0.4054054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ceb80a4b58ed5990800000000000000
+      internalID: -7395499534290731321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkolovanRaiderT2_5
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 64
+        width: 32
+        height: 37
+      alignment: 9
+      pivot: {x: 0.375, y: 0.4054054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c506e4792e5790930800000000000000
+      internalID: 4109945751013843036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkolovanRaiderT2_6
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 64
+        width: 32
+        height: 37
+      alignment: 9
+      pivot: {x: 0.375, y: 0.4054054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce3473d3095b0490800000000000000
+      internalID: -7779026058385015091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkolovanRaiderT2_7
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 63
+        width: 32
+        height: 37
+      alignment: 9
+      pivot: {x: 0.375, y: 0.4054054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243b75de832a07270800000000000000
+      internalID: 8246269283099194178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkolovanRaiderT2_8
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 62
+        width: 32
+        height: 37
+      alignment: 9
+      pivot: {x: 0.375, y: 0.4054054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18400ba280e2dfb0800000000000000
+      internalID: -4624387015536785382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkolovanRaiderT2_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 10
+        width: 32
+        height: 37
+      alignment: 9
+      pivot: {x: 0.375, y: 0.4054054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51fe428a76d8201b0800000000000000
+      internalID: -5691831502700744939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkolovanRaiderT2_10
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 11
+        width: 37
+        height: 34
+      alignment: 9
+      pivot: {x: 0.32432434, y: 0.44117647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88ed3e6a33129bf0800000000000000
+      internalID: -319171481911302006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkolovanRaiderT2_11
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 12
+        width: 35
+        height: 34
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.44117647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740190ec3826986f0800000000000000
+      internalID: -681905550332981177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkolovanRaiderT2_12
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 13
+        width: 46
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5652174, y: 0.44117647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892237bbc27e413a0800000000000000
+      internalID: -6695472566683622760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkolovanRaiderT2_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 14
+        width: 32
+        height: 34
+      alignment: 9
+      pivot: {x: 0.375, y: 0.44117647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1541a3c5941e520800000000000000
+      internalID: 2729543509623460333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkolovanRaiderT2_14
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 15
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609bc7ae17adaca20800000000000000
+      internalID: 3083517077688727814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

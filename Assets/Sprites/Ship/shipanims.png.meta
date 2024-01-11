@@ -1,0 +1,697 @@
+fileFormatVersion: 2
+guid: 69d97b3852b26bd40afeb53fb0eb32b7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7661325281314561254
+    second: shipanims_0
+  - first:
+      213: -7109264587419239322
+    second: shipanims_1
+  - first:
+      213: 5506066185461085130
+    second: shipanims_2
+  - first:
+      213: -2145075000723942920
+    second: shipanims_3
+  - first:
+      213: 5977185925323988329
+    second: shipanims_4
+  - first:
+      213: 8729578735394905036
+    second: shipanims_5
+  - first:
+      213: 1567538386044993726
+    second: shipanims_6
+  - first:
+      213: -5439650633095105409
+    second: shipanims_7
+  - first:
+      213: -8485631053452747688
+    second: shipanims_8
+  - first:
+      213: -1492142362424963387
+    second: shipanims_9
+  - first:
+      213: -2158343399064086415
+    second: shipanims_10
+  - first:
+      213: 2683471293438281231
+    second: shipanims_11
+  - first:
+      213: -4627273515468817284
+    second: shipanims_12
+  - first:
+      213: 8113690417788873336
+    second: shipanims_13
+  - first:
+      213: 822569453402186444
+    second: shipanims_14
+  - first:
+      213: 3975958427403784281
+    second: shipanims_15
+  - first:
+      213: -1602929259649526929
+    second: shipanims_16
+  - first:
+      213: -7412225155685467240
+    second: shipanims_17
+  - first:
+      213: 3561995667700205876
+    second: shipanims_18
+  - first:
+      213: -4886690159770677273
+    second: shipanims_19
+  - first:
+      213: -7464572347552365152
+    second: shipanims_20
+  - first:
+      213: 5793210889640967423
+    second: shipanims_21
+  - first:
+      213: 2741216198166169755
+    second: shipanims_22
+  - first:
+      213: 5244919195954338874
+    second: shipanims_23
+  - first:
+      213: -6435147103437699754
+    second: shipanims_24
+  - first:
+      213: 8968339097369358991
+    second: shipanims_25
+  - first:
+      213: -316923028307334763
+    second: shipanims_26
+  - first:
+      213: -59201374198123786
+    second: shipanims_27
+  - first:
+      213: -5409111002738390014
+    second: shipanims_28
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shipanims_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 228
+        width: 52
+        height: 15
+      alignment: 9
+      pivot: {x: 0.55769235, y: 0.73333335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec597d70ce725a60800000000000000
+      internalID: 7661325281314561254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipanims_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 228
+        width: 52
+        height: 15
+      alignment: 9
+      pivot: {x: 0.55769235, y: 0.73333335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66cbc943681d65d90800000000000000
+      internalID: -7109264587419239322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipanims_2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 228
+        width: 52
+        height: 15
+      alignment: 9
+      pivot: {x: 0.55769235, y: 0.73333335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3b236f50a796c40800000000000000
+      internalID: 5506066185461085130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipanims_3
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 228
+        width: 52
+        height: 15
+      alignment: 9
+      pivot: {x: 0.55769235, y: 0.73333335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f15745e6a92b32e0800000000000000
+      internalID: -2145075000723942920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipanims_4
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 189
+        width: 52
+        height: 15
+      alignment: 9
+      pivot: {x: 0.55769235, y: 0.73333335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d966b3eea33f250800000000000000
+      internalID: 5977185925323988329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipanims_5
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 187
+        width: 52
+        height: 17
+      alignment: 9
+      pivot: {x: 0.55769235, y: 0.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb540acb91b52970800000000000000
+      internalID: 8729578735394905036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipanims_6
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 184
+        width: 52
+        height: 20
+      alignment: 9
+      pivot: {x: 0.55769235, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb040006bd301c510800000000000000
+      internalID: 1567538386044993726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipanims_7
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 186
+        width: 52
+        height: 18
+      alignment: 9
+      pivot: {x: 0.55769235, y: 0.7777778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f743328d19a7284b0800000000000000
+      internalID: -5439650633095105409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipanims_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 150
+        width: 52
+        height: 15
+      alignment: 9
+      pivot: {x: 0.55769235, y: 0.73333335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85cdce3048bfc3a80800000000000000
+      internalID: -8485631053452747688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipanims_9
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 150
+        width: 54
+        height: 19
+      alignment: 9
+      pivot: {x: 0.537037, y: 0.57894737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce09555d68da4be0800000000000000
+      internalID: -1492142362424963387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipanims_10
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 143
+        width: 50
+        height: 26
+      alignment: 9
+      pivot: {x: 0.58, y: 0.6923077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178d97b2d160c02e0800000000000000
+      internalID: -2158343399064086415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipanims_11
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 139
+        width: 51
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5686275, y: 0.6111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06c85a7cea9d3520800000000000000
+      internalID: 2683471293438281231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipanims_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 104
+        width: 48
+        height: 15
+      alignment: 9
+      pivot: {x: 0.6041667, y: 0.73333335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c78e7014f98cfb0800000000000000
+      internalID: -4627273515468817284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipanims_13
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 104
+        width: 47
+        height: 15
+      alignment: 9
+      pivot: {x: 0.61702126, y: 0.73333335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87aebc1627e999070800000000000000
+      internalID: 8113690417788873336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipanims_14
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 104
+        width: 47
+        height: 15
+      alignment: 9
+      pivot: {x: 0.61702126, y: 0.73333335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2ef194f8a5a6b00800000000000000
+      internalID: 822569453402186444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipanims_15
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 104
+        width: 47
+        height: 15
+      alignment: 9
+      pivot: {x: 0.61702126, y: 0.73333335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9509f1bcf117d2730800000000000000
+      internalID: 3975958427403784281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipanims_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 59
+        width: 47
+        height: 15
+      alignment: 9
+      pivot: {x: 0.61702126, y: 0.73333335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63928eb45041c9e0800000000000000
+      internalID: -1602929259649526929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipanims_17
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 59
+        width: 47
+        height: 15
+      alignment: 9
+      pivot: {x: 0.61702126, y: 0.73333335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b37281e7c722990800000000000000
+      internalID: -7412225155685467240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipanims_18
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 59
+        width: 47
+        height: 15
+      alignment: 9
+      pivot: {x: 0.61702126, y: 0.73333335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43940c00030ce6130800000000000000
+      internalID: 3561995667700205876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipanims_19
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 59
+        width: 47
+        height: 15
+      alignment: 9
+      pivot: {x: 0.61702126, y: 0.73333335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7efc873c03dfe2cb0800000000000000
+      internalID: -4886690159770677273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipanims_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 16
+        width: 47
+        height: 15
+      alignment: 9
+      pivot: {x: 0.61702126, y: 0.73333335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a500f7bff2886890800000000000000
+      internalID: -7464572347552365152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipanims_21
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 16
+        width: 47
+        height: 15
+      alignment: 9
+      pivot: {x: 0.61702126, y: 0.73333335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc79f14c9e956050800000000000000
+      internalID: 5793210889640967423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipanims_22
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 16
+        width: 47
+        height: 15
+      alignment: 9
+      pivot: {x: 0.61702126, y: 0.73333335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98cd30db91ca0620800000000000000
+      internalID: 2741216198166169755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shipanims_23
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 16
+        width: 48
+        height: 15
+      alignment: 9
+      pivot: {x: 0.6041667, y: 0.73333335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c5c7e4832b9c840800000000000000
+      internalID: 5244919195954338874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: bfb52d020f2177941ad2a9463ab8f06d, type: 3}
+      name: _Emission
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

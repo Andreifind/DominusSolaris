@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: e50498c6d4dfcad4eb423b777b33b767
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4898249621941244485
+    second: CyborgMain_0
+  - first:
+      213: -9040057696086603686
+    second: CyborgMain_1
+  - first:
+      213: 5837119980615724519
+    second: CyborgMain_2
+  - first:
+      213: 4740281752531385411
+    second: CyborgMain_3
+  - first:
+      213: 3525168274715738812
+    second: CyborgMain_4
+  - first:
+      213: -7679217118484411509
+    second: CyborgMain_5
+  - first:
+      213: -919986508646838440
+    second: CyborgMain_6
+  - first:
+      213: 8160355060643074246
+    second: CyborgMain_7
+  - first:
+      213: 6418814521080511455
+    second: CyborgMain_8
+  - first:
+      213: -2349460517189326033
+    second: CyborgMain_9
+  - first:
+      213: 3197559215661768877
+    second: CyborgMain_10
+  - first:
+      213: 422237442118697505
+    second: CyborgMain_11
+  - first:
+      213: 7629937496850066229
+    second: CyborgMain_12
+  - first:
+      213: -8096324209122313967
+    second: CyborgMain_13
+  - first:
+      213: 4548823943981240374
+    second: CyborgMain_14
+  - first:
+      213: 562953431584943189
+    second: CyborgMain_15
+  - first:
+      213: 6425304034473339325
+    second: CyborgMain_16
+  - first:
+      213: -577182952629121700
+    second: CyborgMain_17
+  - first:
+      213: 6709329034303229469
+    second: CyborgMain_18
+  - first:
+      213: -2387898543834385824
+    second: CyborgMain_19
+  - first:
+      213: 3625216955857521064
+    second: CyborgMain_20
+  - first:
+      213: -3380587750069135001
+    second: CyborgMain_21
+  - first:
+      213: 1884346089649560580
+    second: CyborgMain_22
+  - first:
+      213: -5885578138916161751
+    second: CyborgMain_23
+  - first:
+      213: 7804298708295903240
+    second: CyborgMain_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CyborgMain_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 364
+        width: 44
+        height: 44
+      alignment: 9
+      pivot: {x: 0.22727273, y: 0.45454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542dff044141af340800000000000000
+      internalID: 4898249621941244485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyborgMain_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 364
+        width: 44
+        height: 44
+      alignment: 9
+      pivot: {x: 0.22727273, y: 0.45454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58c8b3fb634b8280800000000000000
+      internalID: -9040057696086603686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyborgMain_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 305
+        width: 44
+        height: 44
+      alignment: 9
+      pivot: {x: 0.22727273, y: 0.45454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed6feb22bd910150800000000000000
+      internalID: 5837119980615724519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyborgMain_3
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 305
+        width: 44
+        height: 44
+      alignment: 9
+      pivot: {x: 0.22727273, y: 0.45454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c36ea832dd8c140800000000000000
+      internalID: 4740281752531385411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyborgMain_4
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 305
+        width: 44
+        height: 44
+      alignment: 9
+      pivot: {x: 0.22727273, y: 0.45454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb288e36ed9ebe030800000000000000
+      internalID: 3525168274715738812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyborgMain_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 305
+        width: 44
+        height: 44
+      alignment: 9
+      pivot: {x: 0.22727273, y: 0.45454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b43ab87b0fd6590800000000000000
+      internalID: -7679217118484411509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyborgMain_6
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 305
+        width: 44
+        height: 44
+      alignment: 9
+      pivot: {x: 0.22727273, y: 0.45454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f04f9052d8b33f0800000000000000
+      internalID: -919986508646838440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyborgMain_7
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 306
+        width: 44
+        height: 44
+      alignment: 9
+      pivot: {x: 0.22727273, y: 0.45454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c011b631b76f3170800000000000000
+      internalID: 8160355060643074246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyborgMain_8
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 306
+        width: 44
+        height: 44
+      alignment: 9
+      pivot: {x: 0.22727273, y: 0.45454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb7f107cc5341950800000000000000
+      internalID: 6418814521080511455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyborgMain_9
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 306
+        width: 44
+        height: 44
+      alignment: 9
+      pivot: {x: 0.22727273, y: 0.45454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bef1b8b1a056fd0800000000000000
+      internalID: -2349460517189326033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyborgMain_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 238
+        width: 44
+        height: 44
+      alignment: 9
+      pivot: {x: 0.22727273, y: 0.45454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0ebcd4a23006c20800000000000000
+      internalID: 3197559215661768877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyborgMain_11
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 238
+        width: 44
+        height: 44
+      alignment: 9
+      pivot: {x: 0.22727273, y: 0.45454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122ca5c67b61cd500800000000000000
+      internalID: 422237442118697505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyborgMain_12
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 238
+        width: 44
+        height: 47
+      alignment: 9
+      pivot: {x: 0.22727273, y: 0.4255319}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b6e2e6abbf2e960800000000000000
+      internalID: 7629937496850066229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyborgMain_13
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 178
+        width: 44
+        height: 46
+      alignment: 9
+      pivot: {x: 0.22727273, y: 0.43478262}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1197ed8270414af80800000000000000
+      internalID: -8096324209122313967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyborgMain_14
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 178
+        width: 44
+        height: 47
+      alignment: 9
+      pivot: {x: 0.22727273, y: 0.4255319}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6301bceb64ba02f30800000000000000
+      internalID: 4548823943981240374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyborgMain_15
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 117
+        width: 44
+        height: 44
+      alignment: 9
+      pivot: {x: 0.22727273, y: 0.45454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c25b2d92300d700800000000000000
+      internalID: 562953431584943189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyborgMain_16
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 117
+        width: 44
+        height: 44
+      alignment: 9
+      pivot: {x: 0.22727273, y: 0.45454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9eaa40af34b2950800000000000000
+      internalID: 6425304034473339325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyborgMain_17
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 56
+        width: 44
+        height: 44
+      alignment: 9
+      pivot: {x: 0.22727273, y: 0.45454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d4122a92f6df7f0800000000000000
+      internalID: -577182952629121700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyborgMain_18
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 56
+        width: 44
+        height: 44
+      alignment: 9
+      pivot: {x: 0.22727273, y: 0.45454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ecbda85335c1d50800000000000000
+      internalID: 6709329034303229469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyborgMain_19
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 55
+        width: 44
+        height: 44
+      alignment: 9
+      pivot: {x: 0.22727273, y: 0.45454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062341f0dea7cded0800000000000000
+      internalID: -2387898543834385824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyborgMain_20
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 56
+        width: 44
+        height: 44
+      alignment: 9
+      pivot: {x: 0.22727273, y: 0.45454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a94c973d9b5f4230800000000000000
+      internalID: 3625216955857521064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyborgMain_21
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 56
+        width: 44
+        height: 44
+      alignment: 9
+      pivot: {x: 0.22727273, y: 0.45454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76997193a5db511d0800000000000000
+      internalID: -3380587750069135001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyborgMain_22
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 3
+        width: 44
+        height: 44
+      alignment: 9
+      pivot: {x: 0.22727273, y: 0.45454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c557be8ca862a10800000000000000
+      internalID: 1884346089649560580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyborgMain_23
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2
+        width: 44
+        height: 46
+      alignment: 9
+      pivot: {x: 0.22727273, y: 0.43478262}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927f814add9325ea0800000000000000
+      internalID: -5885578138916161751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CyborgMain_24
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 2
+        width: 60
+        height: 34
+      alignment: 9
+      pivot: {x: 0.16666667, y: 0.5882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808640583507e4c60800000000000000
+      internalID: 7804298708295903240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: 12c39018dc73aa9468ad7071662a5f8c, type: 3}
+      name: Emission
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
